@@ -1,1 +1,2 @@
-# Sample-Z-tests
+# Single-Sample-Z---Tests
+A simple python program
